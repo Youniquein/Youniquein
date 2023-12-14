@@ -13,7 +13,7 @@ using UnityEngine;
 
 public class Study_01 : MonoBehaviour
 {
-    int test = 1;
+    // int test = 1;
     // lua = nil
     // C# = null
 
